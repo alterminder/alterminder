@@ -26,7 +26,7 @@ Instead of matching keywords, Korca models a team's expertise as a Neo4j knowled
 
 ## 🏠 Homelab
 
-<img src="img/rack.jpg" align="right" width="320">
+<img src="img/rck.jpg" align="right" width="320">
 
 A real Kubernetes cluster at home, where I run and break things before they reach production at work.
 
