@@ -24,6 +24,20 @@ Instead of matching keywords, Korca models a team's expertise as a Neo4j knowled
 
 ---
 
+## <img src="img/kross-fav.svg" width="24"> Kross
+
+A negotiation simulator for humanitarian negotiators. Trainees practise against an AI counterpart (a checkpoint commander, a camp authority, a police chief) and get evidence-based feedback on every turn.
+
+The model only describes; code decides. An LLM labels what the trainee said (every label must quote their words or it's dropped) and plays the counterpart, while plain rules move the hidden dials (trust, rigidity, hostility) and decide the outcome. Every change is logged with its reason, so a trainer can always see *why* the counterpart softened or walked away.
+
+- 🎮 [Try it](https://app.kross.im)
+- 💻 [Source](https://github.com/alterminder/kross) — open source, Apache 2.0
+- 🏁 Started at the ICRC challenge, Swiss {ai} Weeks Geneva Hackathon (Sept 2026)
+
+**Stack:** FastAPI · PostgreSQL · React · TypeScript · any OpenAI-compatible model
+
+---
+
 ## 🏠 Homelab
 
 <img src="img/rck.jpg" align="right" width="320">
