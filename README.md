@@ -30,7 +30,7 @@ A negotiation simulator for humanitarian negotiators. Trainees practise against 
 
 The model only describes; code decides. An LLM labels what the trainee said (every label must quote their words or it's dropped) and plays the counterpart, while plain rules move the hidden dials (trust, rigidity, hostility) and decide the outcome. Every change is logged with its reason, so a trainer can always see *why* the counterpart softened or walked away.
 
-- 🎮 [Try it](https://app.kross.im)
+- 🎮 [Try it](https://kross.im)
 - 💻 [Source](https://github.com/alterminder/kross) — open source, Apache 2.0
 - 🏁 Started at the ICRC challenge, Swiss {ai} Weeks Geneva Hackathon (Sept 2026)
 
