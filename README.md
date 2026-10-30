@@ -5,7 +5,7 @@ Platform engineer working at the intersection of production infrastructure and a
 I build agent systems that reason over knowledge graphs, and the infrastructure that runs them.
 
 **What I do**
-- Platform engineering: AWS, Kubernetes, Terraform, internal developer platforms, CI/CD
+- Platform engineering: AWS, Kubernetes, GitOps, AIOps, internal developer platforms, CI/CD
 - Applied AI: agent systems, GraphRAG, knowledge graphs, LLM observability
 
 ---
